@@ -4,10 +4,6 @@ Temp/
 Logs/
 UserSettings/
 
-# Build output
-Build/
-*.app
-
 # Unity project files
 *.csproj
 *.sln
