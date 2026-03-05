@@ -1,0 +1,23 @@
+# Unity cache folders (huge)
+Library/
+Temp/
+Logs/
+UserSettings/
+
+# Build output
+Build/
+*.app
+
+# Unity project files
+*.csproj
+*.sln
+*.unityproj
+*.user
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
